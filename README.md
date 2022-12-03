@@ -4,9 +4,7 @@
 
 ## ✨ I released my mobile game [iOS][1] and [Android][2]
 
-## 📫 How to reach me?
-
-[LinkedIn][3] or just ✉️ [Email](mailto:savonitar@gmail.com)
+## 📫 How to reach me? [LinkedIn][3] or just ✉️ [Email](mailto:savonitar@gmail.com)
 
 [0]: https://medium.com/@savonitar
 [1]: https://apps.apple.com/ci/app/green-heat/id1561470728?l=en&platform=iphone
